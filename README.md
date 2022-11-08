@@ -1,5 +1,4 @@
 - 😺 Hi, I’m **Jiayi Zeng**, or you can call me **Joyce**. 
-- 🐟 Guess why my username of Github is **JiaYu**.
-- 🏫 I’m currently studying in **UC Irvine** for my 4th undergraduate life, majoring in **Data Science Business Analysis**. I was studying in **Chang'an University** for the first three years studying, and I am going to start my graduate in **East China Normal University**. ??
+- 🏫 I’m currently studying in **UC Irvine** for my 4th undergraduate life, majoring in **Data Science Business Analysis**. I was studying in **Chang'an University** for the first three years studying, and I am going to start my graduate in **East China Normal University**. 
 - 🤔 I used to do some projects about **Computer Visual**, but now I decided to consolidate the foundation of **Machine Learning**. So I am learning *Machineing Learning* which is [*HUNG-YI LEE's* course](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php).
 - 📬 If you need to contact me, email **joyce.j.zeng@outlook.com**. I am looking forward to your email.
